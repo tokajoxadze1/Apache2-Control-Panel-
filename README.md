@@ -9,7 +9,7 @@
 💡 Key Features:  
 
 Install required packages:
-sudo apt-get install apache2
+sudo apt-get install apache2  
 python3 acp2.py
 
 Simple and clean Graphical User Interface (GUI) for seamless server management
