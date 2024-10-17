@@ -1,6 +1,7 @@
 🌐 Apache2-Control-Panel- 🌐
 
-![ss1a](https://github.com/user-attachments/assets/6959fb9f-676a-42c3-8cf2-8108fe60614c)
+![aa111](https://github.com/user-attachments/assets/69de54f7-6b8b-40e9-b96a-541053a7f63e)
+
 
 
 🚀 Apache2 Control Panel is a powerful yet user-friendly application built in Python, designed to manage your Apache2 web server with ease! This tool gives you full control over your Apache2 server, allowing you to Start, Stop, and Restart the server with just a single click. 🎯 No need to configure ports manually—the server automatically operates on port 80 by default!
