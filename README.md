@@ -11,7 +11,7 @@
 Install required packages:
 sudo apt-get install apache2
 python3 acp2.py
---------------------------------
+
 Simple and clean Graphical User Interface (GUI) for seamless server management
 Real-time Terminal Output and feedback on server status
 Automatically checks and installs Apache2 if not present 🛠️
@@ -31,7 +31,7 @@ Program Description for GitHub (Georgian):
 
 sudo apt-get install apache2
 python3 acp2.py
------------------------------
+
 მარტივი და სუფთა გრაფიკული ინტერფეისი სერვერის მართვისთვის
 რეალურ დროში ტერმინალის გამოხმაურება და სტატუსის ჩვენება
 აპაჩე2-ის ავტომატური შემოწმება და ინსტალაცია, თუ ის არ არის დაყენებული 🛠️
